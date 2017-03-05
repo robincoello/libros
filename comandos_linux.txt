@@ -1,3 +1,8 @@
+*******************************
+        Fedora 25
+Contenido de la carpeta /bin
+*******************************
+
 bash
 bunzip2
 busybox
