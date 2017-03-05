@@ -1,5 +1,5 @@
 *******************************
-        Fedora 25
+        Debian 
 Contenido de la carpeta /bin
 *******************************
 
